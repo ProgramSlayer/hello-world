@@ -1,0 +1,20 @@
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\bin\Release\Шифрование Строки. 05-03-2021.exe.config
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\bin\Release\Шифрование Строки. 05-03-2021.exe
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\bin\Release\Шифрование Строки. 05-03-2021.pdb
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.csprojAssemblyReference.cache
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование_Строки._05_03_2021.EncryptDecrypt.resources
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование_Строки._05_03_2021.Properties.Resources.resources
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.csproj.GenerateResource.cache
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.csproj.CoreCompileInputs.cache
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.exe
+C:\Users\pisarets andrey\source\repos\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.pdb
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\bin\Release\Шифрование Строки. 05-03-2021.exe.config
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\bin\Release\Шифрование Строки. 05-03-2021.exe
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\bin\Release\Шифрование Строки. 05-03-2021.pdb
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.csprojAssemblyReference.cache
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование_Строки._05_03_2021.EncryptDecrypt.resources
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование_Строки._05_03_2021.Properties.Resources.resources
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.csproj.GenerateResource.cache
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.csproj.CoreCompileInputs.cache
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.exe
+C:\Users\pisarets andrey\Desktop\2 курс\ПРАКТИКА УП 04-01\УП 04.01\Шифрование Строки. 05-03-2021\obj\Release\Шифрование Строки. 05-03-2021.pdb
